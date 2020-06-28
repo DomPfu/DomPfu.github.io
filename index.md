@@ -1,1 +1,5 @@
 # TestTitel
+
+Bei dem Charakter handelt es sich um eine Testperson, welche für diese Aufgabe generiert wurde.
+Die Person zeichnet sich durch hohe Aufmerksamkeit und Flexibilität aus.
+Sie hat schon in unterschiedlichsten Filmen sowohl den Bösewicht als auch den Helden gespielt.

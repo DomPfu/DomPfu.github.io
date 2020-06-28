@@ -9,3 +9,8 @@ Sie hat schon in unterschiedlichsten Filmen sowohl den Bösewicht als auch den H
 * flexibel
 * durchsetzungsstark
 * galant
+
+
+Wie Mustermax schon sagte:
+> Das Leben ist schön,
+> von einfach war nie die Rede!
